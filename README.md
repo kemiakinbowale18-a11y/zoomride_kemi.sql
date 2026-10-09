@@ -1,1 +1,0 @@
-# zoomride_kemi.sql
